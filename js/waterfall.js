@@ -18,7 +18,7 @@
       img_link: 'https://t1.picb.cc/uploads/2019/09/26/gxt938.md.png',
       code_link: 'https://blog.51cto.com/superwolf',
       title: '我的博客',
-      core_tech: 'blog',
+      core_tech: '网络安全',
       description: '博客地址 <a href ="https://blog.51cto.com/superwolf">https://blog.51cto.com/superwolf</a>。'
     }, {
       demo_link: 'http://gaohaoyang.github.io/test/headerTransition/',
@@ -57,7 +57,7 @@ function contentInit(content) {
   // var htmlStr = htmlArr.join('')
   var htmlStr = ''
   for (var i = 0; i < content.length; i++) {
-    htmlStr += '<div class="grid-item">' + '   <a class="a-img" href="' + content[i].demo_link + '">' + '       <img src="' + content[i].img_link + '">' + '   </a>' + '   <h3 class="demo-title">' + '       <a href="' + content[i].demo_link + '">' + content[i].title + '</a>' + '   </h3>' + '   <p>主要技术：' + content[i].core_tech + '</p>' + '   <p>' + content[i].description + '       <a href="' + content[i].code_link + '">源代码 <i class="fa fa-code" aria-hidden="true"></i></a>' + '   </p>' + '</div>'
+    htmlStr += '<div class="grid-item">' + '   <a class="a-img" href="' + content[i].demo_link + '">' + '       <img src="' + content[i].img_link + '">' + '   </a>' + '   <h3 class="demo-title">' + '       <a href="' + content[i].demo_link + '">' + content[i].title + '</a>' + '   </h3>' + '   <p>主要技术：' + content[i].core_tech + '</p>' + '   <p>' + content[i].description + '       <a href="' + content[i].code_link + '">链接 <i class="fa fa-code" aria-hidden="true"></i></a>' + '   </p>' + '</div>'
   }
   var grid = document.querySelector('.grid')
   grid.insertAdjacentHTML('afterbegin', htmlStr)
