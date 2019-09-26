@@ -12,7 +12,7 @@ type: page
 
 
 ## 关于我
-![images](https://raw.githubusercontent.com/snowwolfmysql/Snowwolfmysql.github.io/master/images/kali.png)
+![images](https://www.picb.cc/image/gxVSPc)
 
 目前主要研究网络安全，渗透测试，KaliLinux渗透测试，熟练掌握云计算及各种服务，熟练掌握Linux,,Centos,Debain,KaliLinux，Windows系统
 
