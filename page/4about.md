@@ -28,7 +28,7 @@ type: page
 
 * GitHub：[Snow狼](https://github.com/snowwolfmysql)
 * email：snowwolfmysql@gmail.com
-* [Weibo](http://weibo.com/KaliLinuxMatch)
+* [微博](http://weibo.com/KaliLinuxMatch)
 * [Twitter](https://twitter.com/snowwolf)
 
 ## 关于本站
