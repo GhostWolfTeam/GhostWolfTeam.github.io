@@ -12,7 +12,7 @@ type: page
 
 
 ## 关于我
-![images](https://t1.picb.cc/uploads/2019/09/26/gxVSPc.jpg)
+![images](https://t1.picb.cc/uploads/2019/09/26/gxVSPc.th.jpg)
 
 目前主要研究网络安全，渗透测试，KaliLinux渗透测试，熟练掌握云计算及各种服务，熟练掌握Linux,,Centos,Debain,KaliLinux，Windows系统
 
