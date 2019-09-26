@@ -21,12 +21,12 @@
       core_tech: '网络安全',
       description: '博客地址 <a href ="https://blog.51cto.com/superwolf">https://blog.51cto.com/superwolf</a>。'
     }, {
-      demo_link: 'http://gaohaoyang.github.io/test/headerTransition/',
-      img_link: 'https://ooo.0o0.ooo/2016/06/20/5768c1597d1fe.png',
-      code_link: 'https://github.com/Gaohaoyang/test/tree/master/headerTransition',
-      title: 'Header Transition 渐变动画',
-      core_tech: 'jQuery BootStrap CSS3',
-      description: '花费不到半小时帮师兄做了一个简单的 CSS3 动画效果，当页面滚动到指定距离时，header 区的背景色由透明变为蓝色。仿照了网站 <a href ="https://quorrajs.org/">https://quorrajs.org/</a> 的 Header 区动画效果。'
+      demo_link: 'http://bbs.tbfull.com',
+      img_link: 'https://t1.picb.cc/uploads/2019/09/26/gxwwn8.png',
+      code_link: 'http://bbs.tbfull.com',
+      title: '华中帝国',
+      core_tech: '论坛',
+      description: '华中帝国是一个集安全讨论，工具下载，交流的社区，欢迎大家访问'
     }
   ];
 
