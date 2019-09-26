@@ -12,7 +12,7 @@ type: page
 <div align=center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=512298117&auto=1&height=66"></iframe></div>
 
 ## 关于我
-![images](https://github.com/snowwolfmysql/Snowwolfmysql.github.io/blob/master/images/kali.png)
+![images](https://raw.githubusercontent.com/snowwolfmysql/Snowwolfmysql.github.io/master/images/kali.png)
 
 目前主要研究网络安全，渗透测试，KaliLinux渗透测试，熟练掌握云计算及各种服务，熟练掌握Linux,,Centos,Debain,KaliLinux，Windows系统
 
