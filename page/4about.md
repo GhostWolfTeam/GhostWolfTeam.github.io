@@ -11,7 +11,7 @@ type: page
 
 
 
-## 关于我
+## 个人简介
 ![images](https://t1.picb.cc/uploads/2019/09/26/gxVSPc.th.jpg)
 
 目前主要研究网络安全，渗透测试，KaliLinux渗透测试，熟练掌握云计算及各种服务，熟练掌握Linux,,Centos,Debain,KaliLinux，Windows系统
@@ -21,7 +21,8 @@ type: page
 * 2019.12 年度金牌freebuf讲师
 * 2019.9  创建幽狼团队
 * 2019.6  担任freebuf讲师
-* 2017.4  参加幽冥狼族团队担任核心
+* 2017.4  参加幽冥狼族团队并担任核心
+* 2016.3  某不知名公司担任CEO兼CTO
 * 2016.2  毕业于北京大学
 
 ## 联系我
