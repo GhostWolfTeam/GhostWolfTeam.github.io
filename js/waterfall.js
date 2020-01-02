@@ -15,14 +15,14 @@
   var demoContent = [
     {
       demo_link: 'https://blog.51cto.com/superwolf',
-      img_link: 'https://t1.picb.cc/uploads/2019/09/26/gxt938.md.png',
+      img_link: 'https://i.loli.net/2020/01/02/ZMH65h7RfY8Tokm.png',
       code_link: 'https://blog.51cto.com/superwolf',
       title: '我的博客',
       core_tech: '网络安全',
       description: '博客地址 <a href ="https://blog.51cto.com/superwolf">https://blog.51cto.com/superwolf</a>。'
     }, {
       demo_link: 'http://bbs.tbfull.com',
-      img_link: 'https://t1.picb.cc/uploads/2019/09/26/gxwwn8.png',
+      img_link: 'https://i.loli.net/2020/01/02/eaPGfoOU6viV3z1.png',
       code_link: 'http://bbs.tbfull.com',
       title: '华中帝国',
       core_tech: '论坛',
