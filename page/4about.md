@@ -12,7 +12,7 @@ type: page
 
 
 ## 个人简介
-![images](https://t1.picb.cc/uploads/2019/09/26/gxVSPc.th.jpg)
+![images](https://i.loli.net/2020/01/02/uyNDkfbn6IC8SUE.png)
 
 目前主要研究网络安全，渗透测试，KaliLinux渗透测试
 
