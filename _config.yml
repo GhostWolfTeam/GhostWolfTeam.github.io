@@ -23,7 +23,7 @@ zhihu_username: #
 linkedIn_username: #
 dribbble_username: #
 
-description_footer: 网络安全 | 安全新闻 | 技术文章 | KaliLinux 技术文章 | 
+description_footer: 网络安全 | 安全新闻 | 技术文章 | KaliLinux 技术文章 |
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -35,7 +35,7 @@ disqus_shortname: #
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: e54481fd1c19d6b95c460579dbd93807
+baidu_tongji_id: c534c48e4873b4a72b4362d6881c07a2
 google_analytics_id: # UA-72449510-4 # google 分析追踪id
 
 # Build settings
