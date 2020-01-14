@@ -37,6 +37,6 @@ Brittany Kaiser曾出演入围奥斯卡Netflix纪录片《了不起的黑客》�
 
 纽约巴德学院(Bard College)的学者艾玛·布赖恩特(Emma Briant)专门调查竞选宣传活动，她已经接触到了许多用于研究的剑桥分析公司文件，并称目前已所披露的信息只是“冰山一角”。
 
-数据下载地址：
-链接：[点我](https://pan.baidu.com/s/16EbF-q-NaiPmhRuyGA9WEw)
-提取码：v503
+数据下载地址：  
+链接：[点我](https://pan.baidu.com/s/1jrlxB7BB-9Ua8l3mPil9aQ)  
+提取码：7r2s  
