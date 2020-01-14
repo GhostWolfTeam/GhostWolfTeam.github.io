@@ -48,7 +48,7 @@ WAF简单说，就是解析HTTP请求，检验HTTP中参数是否存在攻击行
 > - 1．识别SQL语句的关键保留字，如select from，union select，drop table，into outfile等。  
 > - 2．识别DBMS的内建函数，如version(),load_file()，sleep()，benchmark()等  
 > - 3．识别DBMS内建变量，如@@version等。  
-> - 4．识别数据库所识别的内联注释，如/\*!union*/ /\*!select*/或/\*!50000union*/等  
+> - 4．识别数据库所识别的内联注释，如/\*!union\*/ /\*!select\*/或/\*!50000union\*/等  
 
 ## 攻击
 
