@@ -67,6 +67,6 @@ z.com/index.php?page_id=-15 %55nION/\*\*/%53ElecT 1,2,3,4'union%a0select pass fr
 可以写成：  
 > id=1+or+1=1  
 > id=1%0bor%0b1=1  
-> id=1--s%0aor--s%0a1=1  
+> id=1\-\-s%0aor--s%0a1=1  
 > id=1/\*!or\*/1=1  
 > id=1()or(1=1)等多种形式进行尝试绕过  
