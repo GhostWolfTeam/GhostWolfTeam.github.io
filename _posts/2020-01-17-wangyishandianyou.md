@@ -50,10 +50,14 @@ OD打开Start发现这玩意儿基本上就只是去启动进程FlashMail.exe，
 （我仅记录我需要的）  
 ![图片5](https://i.loli.net/2020/01/17/2b3ker1EaxoJFLq.png)  
 查找字符串：  
+
 ***
+
 Content-Type: image/png; name="icon_warm.png"  
 Mime-Version: 1.0     （+4字节跳过换行）  
+
 ***
+
 结束字符串：（-2字节跳过换行）--  
 后期处理：去除截获字符串中所有的{0XD,0XA}(换行符)  
 BASE64解密得到最终需要字符串  
