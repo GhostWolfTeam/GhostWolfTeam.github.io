@@ -50,6 +50,16 @@ I will Be the best
 * 2019.9 任职武汉某安全公司渗透测试工程师
 * 2018.8 对陕西新华电脑软件学校做出一例成功的渗透测试
 
+# 红龙
+
+![红龙.png](https://i.loli.net/2020/01/27/Y6gfiZaOqcSrNL8.png)
+
+目前主要研究方向：RAT ，二进制
+
+天晓不因钟鼓动，月明非为夜行人
+
+曾在上海，厦门，莆田等地做相关安全工作。现居泰国从事相关安全工作
+
 ## 联系我
 
 * GitHub：[Snow狼](https://github.com/snowwolfmysql)
