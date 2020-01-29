@@ -90,6 +90,18 @@ SRC交过洞，CTF倒过茶，X产没技术，还没有女朋友
 
 ***
 
+# Sincere
+
+![sincere.jpg](https://i.loli.net/2020/01/29/Py2iV9wIT6qzQAe.jpg)
+
+目前主要研究方向：Web安全攻防
+
+没有绝对安全的系统
+
+一个Web渗透测试实习生罢了
+
+***
+
 ## 联系我
 
 * GitHub：[Snow狼](https://github.com/snowwolfmysql)
