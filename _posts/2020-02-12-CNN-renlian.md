@@ -239,4 +239,4 @@ PS：数据集由于文件过大并没有附在文件中，如有需要请自行
 
 [4]刘尚旺,刘承伟,张爱丽.基于深度可分卷积神经网络的实时人脸表情和性别识别[J/OL].计算机应用:1-8[2019-12-06].
 
-[5]\https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
+[5]https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
