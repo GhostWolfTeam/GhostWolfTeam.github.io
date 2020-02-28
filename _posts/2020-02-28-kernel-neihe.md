@@ -103,7 +103,8 @@ clean:
 
 这个系统调用表在这里：
 
-``` /usr/src/linux-headers-4.15.0-72-generic/arch/x86/include/generated/asm/syscalls_64.h
+```bash
+/usr/src/linux-headers-4.15.0-72-generic/arch/x86/include/generated/asm/syscalls_64.h
 ```  
 
 ![2.png](https://i.loli.net/2020/02/28/2ImcT6UdRpleOGw.png)
@@ -141,10 +142,10 @@ struct process a[512];
 
 unsigned int clear_and_return_cr0(void);
 void setback_cr0(unsigned int val);
-asmlinkage long sys_mycall(char __user *buf);
+asmlinkage long sys_mycall(char \__user *buf);
 int orig_cr0;
 unsigned long *sys_call_table = 0;
-static int (*anything_saved)(void);
+static int (\*anything_saved)(void);
 
 
 unsigned int clear_cr0(void);
@@ -186,7 +187,7 @@ void processtree(struct task_struct * p,int b)
 	counter ++;
 	for(l = p -> children.next; l != &(p->children); l = l->next)
 	{
-		struct task_struct *t = list_entry(l,struct task_struct,sibling);
+		struct task_struct \*t = list_entry(l,struct task_struct,sibling);
 		processtree(t,b+1);
 	}
 }
@@ -197,7 +198,7 @@ void processtree(struct task_struct * p,int b)
 然后呢，我们增加自己的系统调用，让系统调用调用processtree函数去：
 
 ``` c
-asmlinkage long sys_mycall(char __user * buf)
+asmlinkage long sys_mycall(char \__user * buf)
 {
     int b = 0;
 	struct task_struct * p;
