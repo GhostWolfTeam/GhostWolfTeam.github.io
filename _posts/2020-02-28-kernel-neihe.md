@@ -187,7 +187,7 @@ void processtree(struct task_struct * p,int b)
 	counter ++;
 	for(l = p -> children.next; l != &(p->children); l = l->next)
 	{
-		struct task_struct \*t = list_entry(l,struct task_struct,sibling);
+		struct task_struct *t = list_entry(l,struct task_struct,sibling);
 		processtree(t,b+1);
 	}
 }
@@ -198,7 +198,7 @@ void processtree(struct task_struct * p,int b)
 然后呢，我们增加自己的系统调用，让系统调用调用processtree函数去：
 
 ``` c
-asmlinkage long sys_mycall(char \__user * buf)
+asmlinkage long sys_mycall(char __user * buf)
 {
     int b = 0;
 	struct task_struct * p;
@@ -253,7 +253,7 @@ clean:
 
 ```
 
-嘿嘿嘿，其实一会你make的时候你会发现，编译会报错应该，大概是说什么一个h文件里有什么结构没声明，这里我的解决办法是：<font color="FF0000"> 找到那个文件，然后进去，用sudo修改一下，加一条include为：``` include <linux/sched.h> ``` ，然后你保存退出回来再编译就OK了。</font>
+嘿嘿嘿，其实一会你make的时候你会发现，编译会报错应该，大概是说什么一个h文件里有什么结构没声明，这里我的解决办法是：\<font color="FF0000"> 找到那个文件，然后进去，用sudo修改一下，加一条include为：``` include <linux/sched.h> ``` ，然后你保存退出回来再编译就OK了。</font>
 
 ###  最后，写一个test测试函数，调用我们自己的系统调用
 
