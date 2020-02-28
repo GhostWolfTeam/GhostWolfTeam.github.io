@@ -103,7 +103,8 @@ clean:
 
 这个系统调用表在这里：
 
-``` /usr/src/linux-headers-4.15.0-72-generic/arch/x86/include/generated/asm/syscalls_64.h```  
+``` /usr/src/linux-headers-4.15.0-72-generic/arch/x86/include/generated/asm/syscalls_64.h
+```  
 
 ![2.png](https://i.loli.net/2020/02/28/2ImcT6UdRpleOGw.png)
 
