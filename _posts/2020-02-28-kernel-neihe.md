@@ -142,10 +142,10 @@ struct process a[512];
 
 unsigned int clear_and_return_cr0(void);
 void setback_cr0(unsigned int val);
-asmlinkage long sys_mycall(char \__user *buf);
+asmlinkage long sys_mycall(char __user *buf);
 int orig_cr0;
 unsigned long *sys_call_table = 0;
-static int (\*anything_saved)(void);
+static int (*anything_saved)(void);
 
 
 unsigned int clear_cr0(void);
